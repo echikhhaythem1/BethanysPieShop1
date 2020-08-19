@@ -1,0 +1,70 @@
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.deps.json
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.json
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.dev.json
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.dll
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csprojAssemblyReference.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.AssemblyInfoInputs.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.AssemblyInfo.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.genruntimeconfig.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.pdb
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CoreCompileInputs.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.dll
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.pdb
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.Views.dll
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.input.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.output.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorCoreGenerate.cache
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CopyComplete
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\bower.json
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\appsettings.json
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\FeedbackComplete.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\Index.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\formation Test C# 2020\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\bower.json
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.deps.json
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.json
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.dev.json
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.dll
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.pdb
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.Views.dll
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csprojAssemblyReference.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CoreCompileInputs.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.AssemblyInfoInputs.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.AssemblyInfo.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.input.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.output.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorCoreGenerate.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\FeedbackComplete.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\Index.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.dll
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.pdb
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.genruntimeconfig.cache
+D:\Furure-eye-cor.APP1\Formation ASP.NET CORE\PratiqueFormationVs\formation 2020 V1\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CopyComplete
